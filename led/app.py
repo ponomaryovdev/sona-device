@@ -2,7 +2,7 @@ import board
 import neopixel
 import time
 
-PIXEL_PIN = board.D18
+PIXEL_PIN = board.D12
 NUM_PIXELS = 8
 
 pixels = neopixel.NeoPixel(
